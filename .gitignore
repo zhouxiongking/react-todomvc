@@ -6,6 +6,7 @@ logs/
 logs/*
 .idea/
 .idea/*
+.idea/workspace.xml
 .sass-cache
 lint-modify.js
 
