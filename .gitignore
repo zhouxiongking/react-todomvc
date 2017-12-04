@@ -5,6 +5,7 @@
 logs/
 logs/*
 .idea/
+.idea/*
 .sass-cache
 lint-modify.js
 
@@ -65,3 +66,4 @@ Temporary Items
 
 dist
 npm-debug.log
+
